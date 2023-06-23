@@ -1,7 +1,12 @@
 # DowloadVideoURL_Clipboard20230623
 Код скачивает Видео по URL ссылке из Буфера обмена (МОЖЕТ ОБРАБАТЫВАТЬ СПИСКИ ССЫЛОК)
 Если ссылки скопированы как в текстовом файле друг за другом по строчке, то они с качаются друг за другом ВСЕ!!!
-## Пример работы файла:
+## Программа улучшена до DowloadVideoURL_Clipboard20230624.bat:
+- Теперь файлы скачиваются в папку DownloadVideos
+- И после загрузки папка DownloadVideos открывается в проводнике.
+- Если использовать ярлык бат файла, то не придется искать куда скачиваются видео файлы!
+
+## Пример работы файла OLD-DowloadVideoURL_Clipboard20230623.bat:
 [![Демонстрация](https://i9.ytimg.com/vi/UUFdeIof-M0/mqdefault.jpg?sqp=CJTx16QG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8%3D&rs=AOn4CLDCUrnOGqfqEYzGUW48viAibxiugQ&retry=5)](https://youtu.be/UUFdeIof-M0)
 
 ## Более подробное описание:
