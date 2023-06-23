@@ -5,11 +5,12 @@
 - Теперь файлы скачиваются в папку DownloadVideos
 - И после загрузки папка DownloadVideos открывается в проводнике.
 - Если использовать ярлык бат файла, то не придется искать куда скачиваются видео файлы!
+- Добавил файл PreviewDownloadedVideos_20230624.bat чтобы просматривать видео которые скачал в папку
 
 ## Пример работы файла OLD-DowloadVideoURL_Clipboard20230623.bat:
 [![Демонстрация](https://i9.ytimg.com/vi/UUFdeIof-M0/mqdefault.jpg?sqp=CJTx16QG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8%3D&rs=AOn4CLDCUrnOGqfqEYzGUW48viAibxiugQ&retry=5)](https://youtu.be/UUFdeIof-M0)
 
-## Более подробное описание:
+## Более подробное описание OLD-DowloadVideoURL_Clipboard20230623.bat:
 Данный код является скриптом командной строки, написанным для операционной системы Windows. Он выполняет следующие действия:
 
 1. `@echo off`: Эта команда отключает вывод команд в командной строке. Таким образом, в процессе выполнения скрипта не будет отображаться вывод каждой команды.
