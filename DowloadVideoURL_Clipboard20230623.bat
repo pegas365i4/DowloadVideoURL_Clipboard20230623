@@ -1,4 +1,5 @@
 @echo off
+REM https://github.com/pegas365i4/DowloadVideoURL_Clipboard20230623.git
 REM Код скачивает Видео по URL ссылке из Буфера обмена (МОЖЕТ ОБРАБАТЫВАТЬ СПИСКИ ССЫЛОК):
 REM Если ссылки скопированы как в текстовом файле друг за другом по строчке, то они с качаются друг за другом ВСЕ!!!
 for /f "usebackq tokens=*" %%A in (`powershell.exe -command "Get-Clipboard"`) do (
